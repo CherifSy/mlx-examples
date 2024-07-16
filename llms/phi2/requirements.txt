@@ -3,3 +3,4 @@ mlx
 numpy
 transformers>=4.35
 torch
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
